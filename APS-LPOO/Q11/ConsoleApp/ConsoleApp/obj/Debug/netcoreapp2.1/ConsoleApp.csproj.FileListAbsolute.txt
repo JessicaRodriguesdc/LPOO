@@ -1,0 +1,11 @@
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\jessi_000\Desktop\APS-LPOO\APS-LPOO\Q11\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
